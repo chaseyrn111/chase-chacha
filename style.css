@@ -236,7 +236,8 @@
 }
 
 .Heading {
-  font-size: 32px;
+  font-size: 22px;
+  text-align: center;
   font-family: Inter;
   font-weight: 700;
   line-height: 1.15;
